@@ -1,0 +1,15 @@
+.App {
+  height: 100vh;
+  background: url("https://source.unsplash.com/collection/1408037/1600x900")
+    no-repeat center / cover;
+  color: rgb(131, 176, 243);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0px 10px #111;
+}
+
+.App footer {
+  font-size: 11px;
+  margin: 10px 0;
+}
